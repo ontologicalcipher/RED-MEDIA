@@ -1,3 +1,11 @@
 node_modules
 dist
 
+
+# Local backups and AI planning material
+backups/
+ai-tasks/
+docs/
+research/
+*.bak
+*.bak.*
